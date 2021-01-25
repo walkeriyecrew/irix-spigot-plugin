@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="irix-spigot-plugin:jar">
+    <output-path>$PROJECT_DIR$/../../../Local Projects/Java/Bukkit 1.16.5 Server/plugins</output-path>
+    <root id="archive" name="irix-spigot-plugin.jar">
+      <element id="module-output" name="irix-spigot-plugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/spigot-api-1.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
